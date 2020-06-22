@@ -14,7 +14,7 @@
 ## Prerequisites:
 
 - Web hosting site
-- Basic knowledge on using computer
+- Should know how to run computer
 
 ## ScreenShot:
 
