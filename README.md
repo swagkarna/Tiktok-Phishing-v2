@@ -21,6 +21,12 @@
 ## ScreenShot:
 
   <p align="left">
+   <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png"
+   </p>
+
+## Use it Wisely
+
+   <p align="left">
    <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" 
    </p>
 
