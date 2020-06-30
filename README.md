@@ -1,4 +1,4 @@
-# Tiktok-Phishing-v2
+# Tiktok-Phishing-v2.0
 
 ### TikTok Fake Followers Phishing Script.
 
@@ -15,6 +15,10 @@
 
 - Web hosting site
 - Should know how to run computer
+
+##  New Update :
+### - Removed 000webhost branding logo
+### -  Html code is obfuscated To prevent account block from webhosting sites
 
 ## ScreenShot:
 
