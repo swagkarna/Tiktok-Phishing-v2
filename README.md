@@ -29,7 +29,7 @@
 ## Use it Wisely
 
    <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" width=250px height=350px>
+   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" width=400px height=300px>
    </p>
 
 ## Legal Disclaimer:
