@@ -23,13 +23,13 @@
 ## ScreenShot:
 
   <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png" width=150px height=150px>
+   <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png" width=450px height=550px>
    </p>
 
 ## Use it Wisely
 
    <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" 
+   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" width=250px height=350px>
    </p>
 
 ## Legal Disclaimer:
