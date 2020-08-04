@@ -23,7 +23,7 @@
 ## ScreenShot:
 
   <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png width=150 height=150"
+   <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png width=150 height=150">
    </p>
 
 ## Use it Wisely
