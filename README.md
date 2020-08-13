@@ -26,11 +26,7 @@
    <img src="https://raw.githubusercontent.com/swagkarna/Tiktok-Phishing-v2/master/oie_Hyk1btfX9UCd.png" width=450px height=550px>
    </p>
 
-## Use it Wisely
 
-   <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" width=400px height=300px>
-   </p>
 
 ## Legal Disclaimer:
 
